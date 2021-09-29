@@ -2,7 +2,6 @@
     <div class="p-6 sm:px-20 bg-white dark:bg-gray-800 border-b border-gray-200 dark:border-gray-700">
         <div class="flex inline-flex h-12 w-auto">
             <jet-application-logo class="block h-12 w-auto" />
-            <img class="h-auto w-auto rounded-lg" src="/img/logo.png" alt="">
         </div>
         <div class="sm:flex items-center flex-wrap">
             <div class="sm:w-1/2 items-center">

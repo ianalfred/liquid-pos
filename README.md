@@ -1,5 +1,5 @@
 # Liquid POS
-This is a POS project that utilizes Laravel Jetsream Livewire stack
+This is a POS project that utilizes Laravel Jetstream Livewire stack
 
 ## Get Started
 1. Clone this repo or download the zip

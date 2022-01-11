@@ -32,7 +32,9 @@
             $watch('darkMode', value => localStorage.setItem('darkMode', JSON.stringify(value)))">
         <div :class="{'dark': darkMode === true}" x-data="{nav_open: false}" x-cloak>
             <div class="relative lg:flex min-h-screen bg-gray-100 dark:bg-gray-900 font-sans">
-                @livewire('navigation-menu')
+                <div>
+                    @livewire('navigation-menu')
+                </div>
                 
                 <div class="relative z-10 lg:flex-grow">
                     @livewire('top-navigation')
